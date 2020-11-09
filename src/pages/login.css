@@ -1,0 +1,129 @@
+body {
+  background-color:#e6f9ff;
+}
+
+.container {
+  position:static;
+  margin-left: 100px;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px 0 30px 0;
+} 
+.login {
+  padding: 60px 0;
+}
+
+.login form {
+  margin: 0 auto;
+  max-width: 320px;
+}
+.myForm {
+  margin-left: 400px;
+}
+.formH1 {
+  color: #060b26;
+  margin-left: 100px;
+}
+
+.loginButton {
+  margin-left: 650px;
+  width: 100px;
+  height: 30px;
+  background-color: #060b26;
+  align-content: center;
+  color: white;
+  border-radius: 10px;
+}
+.loginImage {
+  width: 100px;
+  height: 100px;
+}
+.row {
+  margin-left: 0px;
+  display:flex;
+}
+.card {
+  max-width: 40rem;
+  margin-left: 150px;
+  float: left;
+  padding: 10px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.ccol-6 col-md-4 {
+  float: left;
+}
+.input-email {
+  width: 400px;
+  height: 30px;
+  border-radius: 10px;
+  padding: 0;
+}
+
+.input-text {
+  width: 400px;
+  height: 100px;
+  border-radius: 10px;
+  padding: 0;
+}
+
+.help-text {
+  height: 100px;
+  border-radius: 10px;
+  padding: 0;
+}
+
+.myForm {
+  margin-left: 300px;
+  margin-top: 100px;
+}
+
+.myStyle {
+  width: 400px;
+  height: 50px;
+  background-color: #f2f2f2;
+  font-family: Arial;
+  padding: 10px;
+  color: black;
+  border-radius: 10px;
+}
+
+.myTitle {
+  color: #060b26;
+  margin-left: 80px;
+}
+
+.myButton {
+  background-color: #060b26;
+  color: white;
+  border-radius: 5px;
+  width: 200px;
+  height: 30px;
+  justify-content: center;
+  position: center;
+  margin-left: 100px;
+}
+.columns {
+  border: 1px solid #060b26;
+  border-radius: 15px 50px 30px;
+  box-shadow: 2px 2px 5px #060b26;
+  width: 250px;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td,
+th {
+  border: 1px solid white;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #060b26;
+  color: white;
+}
+
+
